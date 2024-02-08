@@ -52,15 +52,8 @@ Initially I tried to make the API request using the closest cities to the coordi
 
 Additionally, for Python syntax questions I used ChatGPT and Stack Overflow to answer questions about bugs. 
 
-[!TIP]
-One of my biggest learnings throught out my journey in the world of programming is to accept that we don't have to know everything. Instead we have to be clear about the goal of our code and then develop the ability to ask questions and find the answer that best suits us on the internet. We have to learn when to search for answers in the documentation, in pages like Stack overflow or if we require the assistance of a person. Generating knowledge is not a one-way street.
-
-
-
-
-
-
-
+> [!TIP]
+> One of my biggest learnings throught out my journey in the world of programming is to accept that we don't have to know everything. Instead we have to be clear about the goal of our code and then develop the ability to ask questions and find the answer that best suits us on the internet. We have to learn when to search for answers in the documentation, in pages like Stack overflow or if we require the assistance of a person. Generating knowledge is not a one-way street.
 
 
 
