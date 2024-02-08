@@ -1,14 +1,14 @@
 # Technical Challenge
 
-🌧️ ## Weather analysis
+## Weather analysis 🌧️
 
 The technical challenge consisted of working with a dataset containing flight-related information and obtaining the weather of the origin and destination cities of each flight.
 
-🔧 ## Resources 
+## Resources 🔧
 - Data Source: challenge_dataset.csv
 - Software: Python 3.12.1, Jupyter Notebook, Pandas
 
-🔀 ## Process 
+## Process 🔀
 The following steps were taken in order to carry out the technical challenge:
 
 1. Create a repository in Github. 
@@ -40,4 +40,4 @@ The following steps were taken in order to carry out the technical challenge:
 12. Clean, sort and rename the columns of the resulting DataFrame.
 13. Save the information in a CSV file.
 
-💪🏼 ## Challenges and obstacles 
+## Challenges and obstacles 💪🏼
