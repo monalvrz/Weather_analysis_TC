@@ -1,0 +1,223 @@
+Origin,Destination,Airline,Flight,Origin Airport,Origin city,Origin temperature,Origin humidity,Origin cloudiness,Origin wind speed,Origin current description,Destination Airport,Destination city,Destination temperature,Destination humidity,Destination cloudiness,Destination wind speed,Destination current description
+TLC,MTY,4O,104,Licenciado Adolfo Lopez Mateos International Airport,Toluca,59.05,61,0,0.0,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MTY,TLC,4O,119,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Adolfo Lopez Mateos International Airport,Toluca,59.05,61,0,0.0,clear sky
+MEX,MTY,4O,2100,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MTY,MEX,4O,2101,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,MTY,4O,2102,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MTY,MEX,4O,2103,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,MTY,4O,2104,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MEX,MTY,4O,2106,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MTY,MEX,4O,2107,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,MTY,4O,2108,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MEX,MTY,4O,2110,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MTY,MEX,4O,2111,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,MTY,4O,2112,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MTY,MEX,4O,2113,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MTY,MEX,4O,2117,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,MTY,4O,2118,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MTY,MEX,4O,2119,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MTY,MEX,4O,2121,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,MTY,4O,2122,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MEX,MTY,4O,2126,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MTY,MEX,4O,2127,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MTY,MEX,4O,2129,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MTY,MEX,4O,2131,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,MTY,4O,2132,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MEX,MTY,4O,2134,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MEX,TAM,4O,2150,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Francisco Javier Mina International Airport,Tampico,69.85,81,28,9.86,scattered clouds
+TAM,MEX,4O,2151,General Francisco Javier Mina International Airport,Tampico,69.85,81,28,9.86,scattered clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,TAM,4O,2152,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Francisco Javier Mina International Airport,Tampico,69.85,81,28,9.86,scattered clouds
+TAM,MEX,4O,2153,General Francisco Javier Mina International Airport,Tampico,69.85,81,28,9.86,scattered clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,TAM,4O,2154,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Francisco Javier Mina International Airport,Tampico,69.85,81,28,9.86,scattered clouds
+TAM,MEX,4O,2155,General Francisco Javier Mina International Airport,Tampico,69.85,81,28,9.86,scattered clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+TAM,MEX,4O,2157,General Francisco Javier Mina International Airport,Tampico,69.85,81,28,9.86,scattered clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,GDL,4O,2200,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+GDL,MEX,4O,2201,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+GDL,MEX,4O,2203,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,GDL,4O,2204,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+MEX,GDL,4O,2206,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+GDL,MEX,4O,2207,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,GDL,4O,2208,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+MEX,GDL,4O,2210,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+GDL,MEX,4O,2211,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+GDL,MEX,4O,2213,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+GDL,MEX,4O,2215,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,GDL,4O,2216,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+GDL,MEX,4O,2217,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,GDL,4O,2220,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+MEX,GDL,4O,2222,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+MEX,GDL,4O,2224,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+GDL,MEX,4O,2225,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+GDL,MEX,4O,2227,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,GDL,4O,2228,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+MEX,CJS,4O,2283,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Abraham González International Airport,Ciudad Juárez,46.58,58,20,6.91,few clouds
+CJS,MEX,4O,2284,Abraham González International Airport,Ciudad Juárez,46.58,58,20,6.91,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MTY,GDL,4O,230,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+CUN,MEX,4O,2301,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,CUN,4O,2302,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky
+CUN,MEX,4O,2303,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,CUN,4O,2306,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky
+MEX,CUN,4O,2308,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky
+CUN,MEX,4O,2309,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,CUN,4O,2310,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky
+CUN,MEX,4O,2311,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+CUN,MEX,4O,2315,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,CUN,4O,2316,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky
+MEX,CUN,4O,2318,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky
+MEX,CUN,4O,2320,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky
+CUN,MEX,4O,2325,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,CUN,4O,2326,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky
+CUN,MEX,4O,2329,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,CUN,4O,2332,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky
+TIJ,MEX,4O,2401,General Abelardo L. Rodríguez International Airport,Tijuana,54.39,84,40,9.22,scattered clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,TIJ,4O,2408,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Abelardo L. Rodríguez International Airport,Tijuana,54.39,84,40,9.22,scattered clouds
+TIJ,MEX,4O,2409,General Abelardo L. Rodríguez International Airport,Tijuana,54.39,84,40,9.22,scattered clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,TIJ,4O,2410,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Abelardo L. Rodríguez International Airport,Tijuana,54.39,84,40,9.22,scattered clouds
+MEX,HMO,4O,2450,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Ignacio P. Garcia International Airport,Hermosillo,56.95,69,0,4.61,clear sky
+HMO,MEX,4O,2455,General Ignacio P. Garcia International Airport,Hermosillo,56.95,69,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,CME,4O,2503,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Ciudad del Carmen International Airport,Ciudad del Carmen,70.88,70,0,14.32,clear sky
+CME,MEX,4O,2506,Ciudad del Carmen International Airport,Ciudad del Carmen,70.88,70,0,14.32,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,MID,4O,2522,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Licenciado Manuel Crescencio Rejon Int Airport,Mérida,66.2,74,0,11.5,clear sky
+MID,MEX,4O,2525,Licenciado Manuel Crescencio Rejon Int Airport,Mérida,66.2,74,0,11.5,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,MID,4O,2526,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Licenciado Manuel Crescencio Rejon Int Airport,Mérida,66.2,74,0,11.5,clear sky
+MID,MEX,4O,2527,Licenciado Manuel Crescencio Rejon Int Airport,Mérida,66.2,74,0,11.5,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,CTM,4O,2544,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Chetumal International Airport,Chetumal,68.99,76,0,5.5,clear sky
+CTM,MEX,4O,2547,Chetumal International Airport,Chetumal,68.99,76,0,5.5,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,CTM,4O,2548,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Chetumal International Airport,Chetumal,68.99,76,0,5.5,clear sky
+CTM,MEX,4O,2549,Chetumal International Airport,Chetumal,68.99,76,0,5.5,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+VER,MEX,4O,2550,General Heriberto Jara International Airport,Veracruz City,64.4,88,0,6.91,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,VER,4O,2551,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Heriberto Jara International Airport,Veracruz City,64.4,88,0,6.91,clear sky
+VER,MEX,4O,2554,General Heriberto Jara International Airport,Veracruz City,64.4,88,0,6.91,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,OAX,4O,2626,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Xoxocotlán International Airport,Santa Cruz Xoxocotlán,54.09,47,0,0.54,clear sky
+OAX,MEX,4O,2629,Xoxocotlán International Airport,Santa Cruz Xoxocotlán,54.09,47,0,0.54,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,HUX,4O,2651,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Bahías de Huatulco International Airport,Santa María Huatulco,70.57,73,4,2.91,clear sky
+HUX,MEX,4O,2652,Bahías de Huatulco International Airport,Santa María Huatulco,70.57,73,4,2.91,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,ZIH,4O,2751,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Ixtapa Zihuatanejo International Airport,Zihuatanejo de Azueta,74.48,81,1,4.38,clear sky
+PVR,MEX,4O,2760,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,75.0,81,91,2.48,overcast clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,PVR,4O,2761,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,75.0,81,91,2.48,overcast clouds
+PVR,MEX,4O,2764,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,75.0,81,91,2.48,overcast clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,PVR,4O,2765,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,75.0,81,91,2.48,overcast clouds
+MEX,LIM,4O,2890,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Jorge Chávez International Airport,Callao,79.45,78,0,14.97,clear sky
+MEX,LIM,4O,2892,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Jorge Chávez International Airport,Callao,79.45,78,0,14.97,clear sky
+MEX,HAV,4O,2902,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,José Martí International Airport,Boyeros,51.8,100,20,1.14,few clouds
+MEX,BOG,4O,2930,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,El Dorado International Airport,Bogota Capital District - Municipality,53.6,100,40,3.44,fog
+MEX,BOG,4O,2932,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,El Dorado International Airport,Bogota Capital District - Municipality,53.6,100,40,3.44,fog
+MEX,MIA,4O,2960,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+MEX,LAX,4O,2972,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Los Angeles International Airport,Los Angeles,53.6,90,75,18.41,broken clouds
+MEX,JFK,4O,2990,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,John F Kennedy International Airport,New York County,40.24,79,20,5.75,few clouds
+MEX,TAM,4O,3142,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Francisco Javier Mina International Airport,Tampico,69.85,81,28,9.86,scattered clouds
+TAM,MEX,4O,3143,General Francisco Javier Mina International Airport,Tampico,69.85,81,28,9.86,scattered clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,TRC,4O,3154,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Francisco Sarabia International Airport,Torreón,66.4,19,95,4.32,overcast clouds
+MEX,PXM,4O,3250,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Puerto Escondido International Airport,San Pedro Mixtepec,73.51,83,4,3.11,clear sky
+PXM,MEX,4O,3251,Puerto Escondido International Airport,San Pedro Mixtepec,73.51,83,4,3.11,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,CUN,4O,3300,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky
+CUN,MEX,4O,3301,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+CUN,MEX,4O,3303,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+ACA,MEX,4O,3706,General Juan N Alvarez International Airport,Acapulco de Juárez,77.0,83,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,ACA,4O,3707,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Juan N Alvarez International Airport,Acapulco de Juárez,77.0,83,0,4.61,clear sky
+ZIH,MEX,4O,3752,Ixtapa Zihuatanejo International Airport,Zihuatanejo de Azueta,74.48,81,1,4.38,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,PVR,4O,3763,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,75.0,81,91,2.48,overcast clouds
+MEX,MZT,4O,3863,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Rafael Buelna International Airport,Mazatlán,70.95,88,40,0.0,scattered clouds
+MEX,GUA,4O,3914,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,La Aurora Airport,Guatemala City,53.6,76,0,11.5,clear sky
+TLC,MTY,4O,4116,Licenciado Adolfo Lopez Mateos International Airport,Toluca,59.05,61,0,0.0,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+MTY,TLC,4O,4117,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Licenciado Adolfo Lopez Mateos International Airport,Toluca,59.05,61,0,0.0,clear sky
+AGU,MTY,4O,4191,Jesús Terán Paredo International Airport,Municipio de Aguascalientes,55.4,22,0,2.3,clear sky,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky
+CUN,MEX,4O,5317,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,LIM,4O,5890,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Jorge Chávez International Airport,Callao,79.45,78,0,14.97,clear sky
+CUN,BOG,4O,6940,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,El Dorado International Airport,Bogota Capital District - Municipality,53.6,100,40,3.44,fog
+CUN,BOG,4O,940,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,El Dorado International Airport,Bogota Capital District - Municipality,53.6,100,40,3.44,fog
+CUN,MID,7M,26,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Licenciado Manuel Crescencio Rejon Int Airport,Mérida,66.2,74,0,11.5,clear sky
+VSA,MID,7M,27,Carlos Rovirosa Pérez International Airport,Centro,65.95,90,0,1.99,clear sky,Licenciado Manuel Crescencio Rejon Int Airport,Mérida,66.2,74,0,11.5,clear sky
+CUN,BZE,9N,6611,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Philip S. W. Goldson International Airport,Belize District,69.1,67,1,5.57,clear sky
+MEX,MIA,AA,1031,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+GDL,DFW,AA,1034,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MEX,DFW,AA,1066,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+CUN,DFW,AA,1068,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+CUN,MIA,AA,1132,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+CUN,MIA,AA,1157,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+PVR,DFW,AA,1215,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,75.0,81,91,2.48,overcast clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+CZM,DFW,AA,1256,Cozumel International Airport,San Miguel de Cozumel,70.57,65,2,11.07,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+CUN,MIA,AA,1285,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+PVR,DFW,AA,1288,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,75.0,81,91,2.48,overcast clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+CUN,JFK,AA,1327,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,John F Kennedy International Airport,New York County,40.24,79,20,5.75,few clouds
+CUN,DFW,AA,1343,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+GDL,DFW,AA,1372,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MEX,DFW,AA,1374,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MEX,MIA,AA,1397,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+MEX,MIA,AA,1498,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+CUN,ORD,AA,1503,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Chicago O'Hare International Airport,Chicago,47.28,68,100,11.5,overcast clouds
+MEX,DFW,AA,1526,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+CUN,MIA,AA,1536,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+CUN,MIA,AA,158,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+CUN,DFW,AA,1601,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MEX,DFW,AA,2350,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+CUN,MIA,AA,2494,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+MEX,LAX,AA,2546,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Los Angeles International Airport,Los Angeles,53.6,90,75,18.41,broken clouds
+MEX,MIA,AA,264,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+GDL,DFW,AA,2647,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+CUN,DFW,AA,2684,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+HMO,PHX,AA,3158,General Ignacio P. Garcia International Airport,Hermosillo,56.95,69,0,4.61,clear sky,Phoenix Sky Harbor International Airport,Phoenix,53.69,71,40,9.22,scattered clouds
+MTY,DFW,AA,3395,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+CUU,DFW,AA,3398,General Roberto Fierro Villalobos International Airport,Chihuahua City,47.55,44,0,2.93,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+TRC,DFW,AA,3428,Francisco Sarabia International Airport,Torreón,66.4,19,95,4.32,overcast clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MTY,DFW,AA,3451,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MTY,DFW,AA,3515,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+QRO,DFW,AA,3517,Querétaro Intercontinental Airport,El Marqués,61.03,21,44,3.11,scattered clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+PVR,DFW,AA,353,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,75.0,81,91,2.48,overcast clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+QRO,DFW,AA,3554,Querétaro Intercontinental Airport,El Marqués,61.03,21,44,3.11,scattered clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+AGU,DFW,AA,3687,Jesús Terán Paredo International Airport,Municipio de Aguascalientes,55.4,22,0,2.3,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+AGU,DFW,AA,3691,Jesús Terán Paredo International Airport,Municipio de Aguascalientes,55.4,22,0,2.3,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MTY,DFW,AA,3701,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+BJX,DFW,AA,3704,Del Bajío International Airport,Silao,60.8,21,20,4.61,few clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MTY,DFW,AA,3743,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MTY,DFW,AA,3842,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+GDL,DFW,AA,387,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MEX,DFW,AA,389,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MEX,DFW,AA,393,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+PBC,DFW,AA,4072,Hermanos Serdán International Airport,Huejotzingo,56.5,39,0,2.55,clear sky,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+MTY,MIA,AA,4349,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+MEX,PHX,AA,439,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Phoenix Sky Harbor International Airport,Phoenix,53.69,71,40,9.22,scattered clouds
+MID,MIA,AA,4566,Licenciado Manuel Crescencio Rejon Int Airport,Mérida,66.2,74,0,11.5,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+MTY,MIA,AA,4741,General Mariano Escobedo International Airport,Apodaca,65.61,72,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+MEX,PHL,AA,496,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Philadelphia International Airport,Tinicum Township,37.08,85,40,6.91,scattered clouds
+MEX,PHX,AA,502,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Phoenix Sky Harbor International Airport,Phoenix,53.69,71,40,9.22,scattered clouds
+MEX,MIA,AA,505,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Miami International Airport,Miami-Dade County,62.6,79,0,5.75,clear sky
+SLP,DFW,AA,5781,Ponciano Arriaga International Airport,San Luis Potosí City,53.6,26,40,0.0,scattered clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+SLP,DFW,AA,5872,Ponciano Arriaga International Airport,San Luis Potosí City,53.6,26,40,0.0,scattered clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+GDL,DFW,AA,5891,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Dallas Fort Worth International Airport,Grapevine,62.6,71,100,13.8,overcast clouds
+GDL,PHX,AA,5902,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Phoenix Sky Harbor International Airport,Phoenix,53.69,71,40,9.22,scattered clouds
+MEX,LAX,AA,816,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Los Angeles International Airport,Los Angeles,53.6,90,75,18.41,broken clouds
+MEX,CLT,AA,828,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Charlotte Douglas International Airport,Charlotte,38.01,73,20,1.01,few clouds
+MEX,CLT,AA,843,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Charlotte Douglas International Airport,Charlotte,38.01,73,20,1.01,few clouds
+CUN,CLT,AA,884,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Charlotte Douglas International Airport,Charlotte,38.01,73,20,1.01,few clouds
+CUN,CLT,AA,886,Cancún International Airport,Benito Juárez,66.2,72,0,4.61,clear sky,Charlotte Douglas International Airport,Charlotte,38.01,73,20,1.01,few clouds
+MEX,YYZ,AC,1981,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Lester B. Pearson International Airport,Mississauga,35.46,91,75,8.05,broken clouds
+MEX,YYZ,AC,1983,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Lester B. Pearson International Airport,Mississauga,35.46,91,75,8.05,broken clouds
+GDL,IAH,AC,5657,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,George Bush Intercontinental Houston Airport,Houston,66.22,83,100,9.22,overcast clouds
+MEX,YVR,AC,997,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Vancouver International Airport,Richmond,44.56,91,100,21.85,overcast clouds
+MEX,CDG,AF,179,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Charles de Gaulle International Airport,Mauregard,54.79,98,75,13.8,broken clouds
+MEX,GDL,AF,3392,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+CJS,MEX,AF,3393,Abraham González International Airport,Ciudad Juárez,46.58,58,20,6.91,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,PVR,AF,3396,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,75.0,81,91,2.48,overcast clouds
+MEX,GDL,AF,3399,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+PVR,MEX,AF,3412,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,75.0,81,91,2.48,overcast clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,ZCL,AF,3439,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,General Leobardo C. Ruiz International Airport,Morelos,58.08,32,75,8.66,broken clouds
+MEX,CDG,AF,8099,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Charles de Gaulle International Airport,Mauregard,54.79,98,75,13.8,broken clouds
+GDL,MEX,AF,8135,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,CJS,AF,8158,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Abraham González International Airport,Ciudad Juárez,46.58,58,20,6.91,few clouds
+MEX,AMS,AF,8457,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Amsterdam Airport Schiphol,Haarlemmermeer,37.98,95,0,4.61,clear sky
+MEX,ATL,AF,8787,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Hartsfield Jackson Atlanta International Airport,Clayton County,46.42,67,100,3.44,overcast clouds
+MEX,CEN,AF,9969,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Ciudad Obregón International Airport,Ciudad Obregón,55.13,53,0,6.35,clear sky
+ZCL,MEX,AF,9990,General Leobardo C. Ruiz International Airport,Morelos,58.08,32,75,8.66,broken clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,MAD,AM,1,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Adolfo Suárez Madrid–Barajas Airport,Madrid,49.19,92,20,4.0,few clouds
+MEX,SCL,AM,10,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Comodoro Arturo Merino Benítez International Airport,Pudahuel,79.2,57,0,3.44,clear sky
+MEX,GDL,AM,100,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+GDL,MEX,AM,105,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+GDL,MEX,AM,107,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+MEX,GDL,AM,108,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+GDL,MEX,AM,109,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+GDL,TIJ,AM,110,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,General Abelardo L. Rodríguez International Airport,Tijuana,54.39,84,40,9.22,scattered clouds
+MEX,GDL,AM,1104,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+MEX,GDL,AM,1120,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds
+GDL,MEX,AM,1127,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
+GDL,MEX,AM,113,Don Miguel Hidalgo Y Costilla International Airport,Tlajomulco de Zúñiga,60.8,41,20,0.0,few clouds,Licenciado Benito Juarez International Airport,Mexico City,63.18,29,0,4.61,clear sky
