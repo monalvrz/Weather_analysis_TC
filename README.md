@@ -41,3 +41,30 @@ The following steps were taken in order to carry out the technical challenge:
 13. Save the information in a CSV file.
 
 ## Challenges and obstacles 💪🏼
+
+As with every new challenge, the process presents certain difficulties that allow us to find creative and diverse ways to find solutions.
+
+One of the main challenges was (ironically) reacquainting myself with Github and what it implies. Creating a repository, cloning it to a local file, committing and pushing from the terminal without breaking anything. To solve the problems that arose from this I read the official Github documentation and looked up the bugs I was getting on Stack Overflow. 
+
+Another challenge I faced in this test was to find the best way to work with the dataset to collect the data I needed to retreive information from OpenWeather. I tried several ways to do it and when I thought it was already solved I was able to identify certain errors that gave me clues on how to do it in a cleaner and more accurate way. 
+
+Initially I tried to make the API request using the closest cities to the coordinates of the dataset, however it was not giving me the exact location of the IATA codes. Therefore, I had to find a way to make the request using the coordinates and not the cities. To learn how to make the request it was necessary to read the OpenWeather documentation.
+
+Additionally, for Python syntax questions I used ChatGPT and Stack Overflow to answer questions about bugs. 
+
+[!TIP]
+One of my biggest learnings throught out my journey in the world of programming is to accept that we don't have to know everything. Instead we have to be clear about the goal of our code and then develop the ability to ask questions and find the answer that best suits us on the internet. We have to learn when to search for answers in the documentation, in pages like Stack overflow or if we require the assistance of a person. Generating knowledge is not a one-way street.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
